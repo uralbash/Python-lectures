@@ -1,0 +1,92 @@
+﻿%YAML 1.2
+---
+Content Type: library
+Content Subtype: book
+
+#--- --- --- Main --- --- ---
+Title: 'Язык программирования Python - курс лекций'
+Type: eBook
+Release: 
+    Print: 
+        Year: 
+        Month: 
+        Day: 
+    eBook: 
+        Year: 2005
+        Month: 12
+        Day: 22
+Author: Роман Авриевич Сузи
+Publisher: 
+Language: Russian
+Series: 
+
+ISBN: 
+    Print: 
+        ISBN-13: 
+        ISBN-10: 
+    eBook: 
+        ISBN-13: 
+        ISBN-10: 
+#--- --- --- Main --- --- ---
+
+#--- --- --- File Details --- --- ---
+File Name: Yazyk.programmirovaniya.Python.kurs.lekcij.Roman.Avrievich.Suzi.2005
+File Size: 
+    - 1311105
+    - 476697
+Format: 
+    - PDF
+    - CHM
+#--- --- --- File Details --- --- ---
+
+#--- --- --- Details --- --- ---
+WWW: http://www.intuit.ru/department/pl/python/
+Binding: 
+Edition: 
+Pages: 206
+Circulation: 
+Description: |
+    Курс посвящен одному из бурно развивающихся и популярных в настоящее время сценарных языков программирования - Python. Язык Python позволяет быстро создавать как прототипы программных систем, так и сами программные системы, помогает в интеграции программного обеспечения для решения производственных задач.
+    Python имеет богатую стандартную библиотеку и большое количество модулей расширения практически для всех нужд отрасли информационных технологий. Благодаря ясному синтаксису изучение языка не составляет большой проблемы. Написанные на нем программы получаются структурированными по форме, и в них легко проследить логику работы. На примере языка Python рассматриваются такие важные понятия как: объектно-ориентированное программирование, функциональное программирование, событийно-управляемые программы (GUI-приложения), форматы представления данных (Unicode, XML и т.п.). Возможность диалогового режима работы интерпретатора Python позволяет существенно сократить время изучения самого языка и перейти к решению задач в соответствующих предметных областях. Python свободно доступен для многих платформ, а написанные на нем программы обычно переносимы между платформами без изменений. Это обстоятельство позволяет применять для изучения языка любую имеющуюся аппаратную платформу.
+
+Note: 
+
+Genre: Programming
+Keywords: 
+    - Computers
+    - Programming
+    - Python
+Dimensions: 
+    Unit: 
+    Value: 
+Weight: 
+    Unit: 
+    Value: 
+
+Source Code: False
+Translation: False
+#--- --- --- Details --- --- ---
+
+#--- --- --- Original --- --- ---
+Original: 
+    Title: 
+    Release: 
+        Print: 
+            Year: 
+            Month: 
+            Day: 
+        eBook: 
+            Year: 
+            Month: 
+            Day: 
+    Author: 
+    Publisher: 
+    Language: 
+    ISBN: 
+        Print: 
+            ISBN-13: 
+            ISBN-10: 
+        eBook: 
+            ISBN-13: 
+            ISBN-10: 
+#--- --- --- Original --- --- ---
