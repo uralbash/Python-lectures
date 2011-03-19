@@ -7,7 +7,7 @@ def do_something(x):
   return string.join(lst, "")
 
 HOST = ""                 # localhost
-PORT = 8008
+PORT = 8028
 srv = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 srv.bind((HOST, PORT))
 while 1:

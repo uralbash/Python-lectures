@@ -11,6 +11,6 @@ print "gethostname: ", socket.gethostname()
 #позволяет преобразовывать наименования Интернет-сервисов в общепринятые номера
 #портов:
 
-for srv in 'http', 'ftp', 'imap', 'pop3', 'smtp':
+for srv in 'http', 'ftp', 'imap', 'pop3', 'smtp', 'https':
     print socket.getservbyname(srv, 'tcp'), srv
 
